@@ -1,4 +1,4 @@
-### Hi there, I'm Arun!(https://www.ashah.uk) 👋
+### Hi there, I'm Ameeno!(https://www.ashah.uk) 👋
 
 <a href="https://codesandbox.io/u/ameeno">
   <img align="left" alt="Arun Shah | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/ameeno/ameeno/master/assets/codesandbox.svg" />
@@ -13,7 +13,7 @@
 <br />
 <br />
 
-Hi, I'm Arun Shah, a passionate Dev Ops engineer and developer from the United Kingdom.
+Hi, I'm Ameeno, a passionate Dev Ops engineer and SRE from the United Kingdom.
 
 - 🔭 I’m currently working on [wordpress-to-ghpages](https://github.com/ameeno/wp-test-ghpages)
 - 🌱 I’m currently learning Go, Azure certs, CKA, CKAD
