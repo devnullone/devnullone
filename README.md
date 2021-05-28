@@ -41,17 +41,17 @@ Hi, I'm AShah, a passionate Dev Ops engineer and SRE from the United Kingdom.
 
 
 <a href="#">
-  <img align="center" src="https://github-readme-stats-4obceb8af-ameeno.vercel.app/api?username=ameeno&show_icons=true&include_all_commits=true&theme=material-palenight&count_private=true" alt="Aruns's github stats" />
+  <img align="center" src="https://github-readme-stats-six-olive.vercel.app/api?username=ameeno&show_icons=true&include_all_commits=true&theme=material-palenight&count_private=true" alt="Aruns's github stats" />
 </a>
 <a href="#">
-  <img align="center" src="https://github-readme-stats-4obceb8af-ameeno.vercel.app//api/top-langs/?username=ameeno&layout=compact&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats-six-olive.vercel.app//api/top-langs/?username=ameeno&layout=compact&theme=material-palenight" />
 </a>
 
 <a href="https://github.com/ameeno/Dell-E7440-Hackintosh">
-  <img align="center" src="https://github-readme-stats-4obceb8af-ameeno.vercel.app//api/pin/?username=ameeno&repo=Dell-E7440-Hackintosh&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats-six-olive.vercel.app//api/pin/?username=ameeno&repo=Dell-E7440-Hackintosh&theme=material-palenight" />
 </a>    
 <a href="https://github.com/ameeno/ameeno.github.io">
-  <img align="center" src="https://github-readme-stats-4obceb8af-ameeno.vercel.app//api/pin/?username=ameeno&repo=ameeno.github.io&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats-six-olive.vercel.app//api/pin/?username=ameeno&repo=ameeno.github.io&theme=material-palenight" />
 </a>
 
 
@@ -64,11 +64,11 @@ Hi, I'm AShah, a passionate Dev Ops engineer and SRE from the United Kingdom.
 
 [![Forkers repo roster for @ameeno/Dell-E7440-Hackintosh](https://reporoster.com/forks/ameeno/Dell-E7440-Hackintosh)](https://github.com/ameeno/Dell-E7440-Hackintosh/network/members)
 
-![Ameeno's GitHub stats](https://github-readme-stats-4obceb8af-ameeno.vercel.app//api?username=ameeno&show_icons=true&count_private=true) ![Top Langs](https://github-readme-stats-4obceb8af-ameeno.vercel.app//api/top-langs/?username=ameeno&langs_count=4)
+![Ameeno's GitHub stats](https://github-readme-stats-six-olive.vercel.app//api?username=ameeno&show_icons=true&count_private=true) ![Top Langs](https://github-readme-stats-six-olive.vercel.app//api/top-langs/?username=ameeno&langs_count=4)
 <!--
 &theme=radical
 &layout=compact
-[![Aruns's wakatime stats](https://github-readme-stats-4obceb8af-ameeno.vercel.app//api/wakatime?username=ameeno)]
+[![Aruns's wakatime stats](https://github-readme-stats-six-olive.vercel.app//api/wakatime?username=ameeno)]
 
 
 <!--
