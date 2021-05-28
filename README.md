@@ -43,9 +43,9 @@ Hi, I'm AShah, a passionate Dev Ops engineer and SRE from the United Kingdom.
 <a href="#">
   <img align="center" src="https://github-readme-stats-nine-phi-24.vercel.app/api?username=ameeno&show_icons=true&include_all_commits=true&theme=material-palenight&count_private=true" alt="Aruns's github stats" />
 </a>
-<a href="#">
+<!--<a href="#">
   <img align="center" src="https://github-readme-stats-nine-phi-24.vercel.app//api/top-langs/?username=ameeno&layout=compact&theme=material-palenight" />
-</a>
+</a>-->
 
 <a href="https://github.com/ameeno/Dell-E7440-Hackintosh">
   <img align="center" src="https://github-readme-stats-nine-phi-24.vercel.app//api/pin/?username=ameeno&repo=Dell-E7440-Hackintosh&theme=material-palenight" />
