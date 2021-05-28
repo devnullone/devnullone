@@ -51,7 +51,7 @@ Hi, I'm AShah, a passionate Dev Ops engineer and SRE from the United Kingdom.
   <img align="center" src="https://github-readme-stats-nine-phi-24.vercel.app//api/pin/?username=ameeno&repo=Dell-E7440-Hackintosh&theme=material-palenight" />
 </a>    
 <a href="https://github.com/ameeno/ameeno.github.io">
-  <img align="center" src="https://github-readme-stats-nine-phi-24.vercel.app//api/pin/?username=ameeno&repo=ameeno.github.io&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats-nine-phi-24.vercel.app//api/pin/?username=ameeno&repo=DELL-DW1820A-Drivers&theme=material-palenight" />
 </a>
 
 
