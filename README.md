@@ -67,7 +67,7 @@ Hi, I'm AShah, a passionate Dev Ops engineer and SRE from the United Kingdom.
 ![Ameeno's GitHub stats](https://github-readme-stats-nine-phi-24.vercel.app//api?username=ameeno&show_icons=true&count_private=true) ![Top Langs](https://github-readme-stats-nine-phi-24.vercel.app//api/top-langs/?username=ameeno&langs_count=4)
 <!--
 &theme=radical
-&layout=compact
+&layout=compact -->
 [![Aruns's wakatime stats](https://github-readme-stats-nine-phi-24.vercel.app//api/wakatime?username=ameeno)]
 
 
