@@ -41,7 +41,7 @@ Hi, I'm AShah, a passionate Dev Ops engineer and SRE from the United Kingdom. --
 
 
 <a href="#">
-  <img align="center" src="https://github-readme-stats-nine-phi-24.vercel.app/api?username=ameeno&show_icons=true&include_all_commits=true&theme=material-palenight&count_private=true" alt="Aruns's github stats" />
+  <img align="center" src="https://github-readme-stats-nine-phi-24.vercel.app/api?username=ameeno&show_icons=true&include_all_commits=true&theme=material-palenight&count_private=true&hide=pr" alt="Aruns's github stats" />
 </a>
 <!--<a href="#">
   <img align="center" src="https://github-readme-stats-nine-phi-24.vercel.app//api/top-langs/?username=ameeno&layout=compact&theme=material-palenight" />
