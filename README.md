@@ -37,7 +37,7 @@ Hi, I'm AShah, a passionate Dev Ops engineer and SRE from the United Kingdom. --
 
 
 
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, for example C++ files/drivers or JAVA files can be very large. <!-- it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)* -->
 
 
 <a href="#">
