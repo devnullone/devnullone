@@ -16,7 +16,7 @@
 Hi, I'm AShah, a passionate Dev Ops engineer and SRE from the United Kingdom. -->
 
 - 🔭 I’m currently working on [wordpress-to-ghpages](https://github.com/ameeno/wp-test-ghpages)
-- 🌱 I’m currently learning Go, Azure certs, CKA, CKAD
+- 🌱 I’m currently studying for Azure, CKA, CKAD certs
 - 👯 I’m looking to collaborate on [Dell-E7440-Hackintosh](https://github.com/ameeno/Dell-E7440-Hackintosh)
 - 💬 Ask me about anything [here](https://github.com/ameeno/ameeno/issues)
 
