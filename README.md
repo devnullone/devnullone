@@ -21,6 +21,7 @@ Hi, I'm AShah, a passionate Dev Ops engineer and SRE from the United Kingdom. --
 - 💬 Ask me about anything [here](https://github.com/ameeno/ameeno/issues)
 
 **Languages and Tools:**  
+[![ameeno's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ameeno)]
 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/yaml/yaml.png"></code>
