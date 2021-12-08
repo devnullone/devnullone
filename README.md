@@ -23,7 +23,8 @@ Hi, I'm AShah, a passionate Dev Ops engineer and SRE from the United Kingdom. --
 **Languages and Tools:**  
 
 
-![ameeno's wakatime stats](https://github-readme-stats-nine-phi-24.vercel.app/api/wakatime?username=@ameeno)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/yaml/yaml.png"></code>
