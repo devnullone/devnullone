@@ -71,7 +71,7 @@ Hi, I'm AShah, a passionate Dev Ops engineer and SRE from the United Kingdom. --
 
 **🐱 My GitHub Data** 
 
-> 🏆 2,310 Contributions in the Year 2021
+> 🏆 2,312 Contributions in the Year 2021
  > 
 > 📦 1.8 MB Used in GitHub's Storage 
  > 
