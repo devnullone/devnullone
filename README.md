@@ -24,7 +24,6 @@ Hi, I'm AShah, a passionate Dev Ops engineer and SRE from the United Kingdom. --
 
 
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
 
 
