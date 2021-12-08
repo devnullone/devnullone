@@ -5,16 +5,7 @@ on:
     # Runs at 12am IST
     - cron: '0 * * * *'
   workflow_dispatch:
-jobs:
-  update-readme:
-    name: Update Readme with Metrics
-    runs-on: ubuntu-latest
-    steps:
-      - uses: anmol098/waka-readme-stats@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          
+jobs:          
   update-gist:
     runs-on: ubuntu-latest
     steps:
@@ -25,3 +16,15 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           GIST_ID: ef5164cd50f0e30ca002952d3339478d
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          
+          
+  update-readme:
+    name: Update Readme with Metrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          
+          SHOW_LINES_OF_CODE : "True"
