@@ -63,7 +63,7 @@ Hi, I'm AShah, a passionate Dev Ops engineer and SRE from the United Kingdom. --
 - <img src="https://media.giphy.com/media/gCWkRsa39liKgD0GLW/giphy.gif" width="50"> **My Routine:** 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-539%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-539%20hrs%208%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -71,7 +71,7 @@ Hi, I'm AShah, a passionate Dev Ops engineer and SRE from the United Kingdom. --
 
 **🐱 My GitHub Data** 
 
-> 🏆 2,522 Contributions in the Year 2021
+> 🏆 2,523 Contributions in the Year 2021
  > 
 > 📦 1.8 MB Used in GitHub's Storage 
  > 
@@ -95,9 +95,9 @@ Hi, I'm AShah, a passionate Dev Ops engineer and SRE from the United Kingdom. --
 ```text
 Monday       60 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.2% 
 Tuesday      32 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.91% 
-Wednesday    42 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.44% 
+Wednesday    41 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.29% 
 Thursday     54 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.28% 
-Friday       99 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.18% 
+Friday       100 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.34% 
 Saturday     193 commits    ███████░░░░░░░░░░░░░░░░░░   29.6% 
 Sunday       172 commits    ██████░░░░░░░░░░░░░░░░░░░   26.38%
 
