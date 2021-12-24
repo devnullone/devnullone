@@ -63,8 +63,6 @@ Hi, I'm AShah, a passionate Dev Ops engineer and SRE from the United Kingdom. --
 - <img src="https://media.giphy.com/media/gCWkRsa39liKgD0GLW/giphy.gif" width="50"> **My Routine:** 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-546%20hrs%2041%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-37-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8%20Million%20lines%20of%20code-blue)
@@ -110,21 +108,16 @@ Sunday       172 commits    ██████░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-YAML                     1 hr 41 mins        █████████████░░░░░░░░░░░░   54.79% 
-Other                    1 hr 10 mins        █████████░░░░░░░░░░░░░░░░   38.35% 
-Bash                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.86%
+Other                    52 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-VS Code                  3 hrs 4 mins        █████████████████████████   100.0%
+VS Code                  52 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-helm-charts              1 hr 9 mins         █████████░░░░░░░░░░░░░░░░   37.75% 
-.exportsrc.d             1 hr 7 mins         █████████░░░░░░░░░░░░░░░░   36.53% 
-eks-sre-as-harness       47 mins             ██████░░░░░░░░░░░░░░░░░░░   25.72% 
-globality-kubernetes-micr0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+.exportsrc.d             52 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      3 hrs 4 mins        █████████████████████████   100.0%
+Mac                      52 mins             █████████████████████████   100.0%
 
 ```
 
@@ -145,7 +138,7 @@ PHP                      5 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ameeno/ameeno/main/charts/bar_graph.png) 
 
 
- Last Updated on 23/12/2021
+ Last Updated on 24/12/2021
 <!--END_SECTION:waka-->
 
 
