@@ -63,8 +63,6 @@ Hi, I'm AShah, a passionate Dev Ops engineer and SRE from the United Kingdom. --
 - <img src="https://media.giphy.com/media/gCWkRsa39liKgD0GLW/giphy.gif" width="50"> **My Routine:** 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-547%20hrs%206%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-37-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8%20Million%20lines%20of%20code-blue)
@@ -110,19 +108,18 @@ Sunday       172 commits    ██████░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Other                    52 mins             █████████████████████████   100.0%
+Other                    25 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-VS Code                  52 mins             █████████████████████████   100.0%
+VS Code                  25 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-.exportsrc.d             35 mins             ████████████████░░░░░░░░░   67.18% 
-.dotfiles                10 mins             █████░░░░░░░░░░░░░░░░░░░░   21.0% 
-Unknown Project          6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.82% 
+.exportsrc.d             24 mins             ███████████████████████░░   95.45% 
+Unknown Project          1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   4.55% 
 arun                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 💻 Operating System: 
-Mac                      52 mins             █████████████████████████   100.0%
+Mac                      25 mins             █████████████████████████   100.0%
 
 ```
 
@@ -143,7 +140,7 @@ PHP                      5 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ameeno/ameeno/main/charts/bar_graph.png) 
 
 
- Last Updated on 29/12/2021
+ Last Updated on 30/12/2021
 <!--END_SECTION:waka-->
 
 
