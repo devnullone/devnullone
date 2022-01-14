@@ -71,13 +71,13 @@ Hi, I'm AShah, a passionate Dev Ops engineer and SRE from the United Kingdom. --
 
 **🐱 My GitHub Data** 
 
-> 🏆 2 Contributions in the Year 2022
+> 🏆 3 Contributions in the Year 2022
  > 
 > 📦 1.8 MB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 126 Public Repositories 
+> 📜 127 Public Repositories 
  > 
 > 🔑 118 Private Repositories  
  > 
