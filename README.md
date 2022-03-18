@@ -63,7 +63,7 @@ Hi, I'm AShah, a passionate Dev Ops engineer and SRE from the United Kingdom. --
 - <img src="https://media.giphy.com/media/gCWkRsa39liKgD0GLW/giphy.gif" width="50"> **My Routine:** 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-723%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-723%20hrs%2042%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -71,7 +71,7 @@ Hi, I'm AShah, a passionate Dev Ops engineer and SRE from the United Kingdom. --
 
 **🐱 My GitHub Data** 
 
-> 🏆 75 Contributions in the Year 2022
+> 🏆 76 Contributions in the Year 2022
  > 
 > 📦 1.8 MB Used in GitHub's Storage 
  > 
@@ -79,7 +79,7 @@ Hi, I'm AShah, a passionate Dev Ops engineer and SRE from the United Kingdom. --
  > 
 > 📜 127 Public Repositories 
  > 
-> 🔑 126 Private Repositories  
+> 🔑 127 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
@@ -134,11 +134,11 @@ Mac                      6 hrs 24 mins       ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                   15 repos            █████░░░░░░░░░░░░░░░░░░░░   22.39% 
-Shell                    14 repos            █████░░░░░░░░░░░░░░░░░░░░   20.9% 
-JavaScript               13 repos            ████░░░░░░░░░░░░░░░░░░░░░   19.4% 
-PHP                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.97% 
-HTML                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.97%
+Python                   15 repos            █████░░░░░░░░░░░░░░░░░░░░   22.73% 
+Shell                    14 repos            █████░░░░░░░░░░░░░░░░░░░░   21.21% 
+JavaScript               13 repos            █████░░░░░░░░░░░░░░░░░░░░   19.7% 
+PHP                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.06% 
+HTML                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.06%
 
 ```
 
@@ -148,7 +148,7 @@ HTML                     4 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ameeno/ameeno/main/charts/bar_graph.png) 
 
 
- Last Updated on 18/03/2022 09:14:28 UTC
+ Last Updated on 18/03/2022 13:25:00 UTC
 <!--END_SECTION:waka-->
 
 
