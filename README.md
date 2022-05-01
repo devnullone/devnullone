@@ -63,15 +63,15 @@ Hi, I'm AShah, a passionate Dev Ops engineer and SRE from the United Kingdom. --
 - <img src="https://media.giphy.com/media/gCWkRsa39liKgD0GLW/giphy.gif" width="50"> **My Routine:** 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-801%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-801%20hrs%2059%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 237 Contributions in the Year 2022
+> 🏆 233 Contributions in the Year 2022
  > 
 > 📦 1.8 MB Used in GitHub's Storage 
  > 
@@ -84,22 +84,22 @@ Hi, I'm AShah, a passionate Dev Ops engineer and SRE from the United Kingdom. --
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    80 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.03% 
-🌆 Daytime    146 commits    █████░░░░░░░░░░░░░░░░░░░░   20.14% 
-🌃 Evening    167 commits    █████░░░░░░░░░░░░░░░░░░░░   23.03% 
-🌙 Night      332 commits    ███████████░░░░░░░░░░░░░░   45.79%
+🌞 Morning    80 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.02% 
+🌆 Daytime    147 commits    █████░░░░░░░░░░░░░░░░░░░░   20.25% 
+🌃 Evening    167 commits    █████░░░░░░░░░░░░░░░░░░░░   23.0% 
+🌙 Night      332 commits    ███████████░░░░░░░░░░░░░░   45.73%
 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday       48 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.62% 
-Tuesday      52 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.17% 
-Wednesday    85 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.72% 
-Thursday     83 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.45% 
-Friday       101 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.93% 
-Saturday     191 commits    ██████░░░░░░░░░░░░░░░░░░░   26.34% 
-Sunday       165 commits    █████░░░░░░░░░░░░░░░░░░░░   22.76%
+Monday       48 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.61% 
+Tuesday      52 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.16% 
+Wednesday    85 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.71% 
+Thursday     83 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.43% 
+Friday       101 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.91% 
+Saturday     191 commits    ██████░░░░░░░░░░░░░░░░░░░   26.31% 
+Sunday       166 commits    █████░░░░░░░░░░░░░░░░░░░░   22.87%
 
 ```
 
@@ -148,7 +148,7 @@ CSS                      4 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ameeno/ameeno/main/charts/bar_graph.png) 
 
 
- Last Updated on 01/05/2022 13:27:13 UTC
+ Last Updated on 01/05/2022 16:18:58 UTC
 <!--END_SECTION:waka-->
 
 
