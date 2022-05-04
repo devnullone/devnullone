@@ -63,7 +63,7 @@ Hi, I'm AShah, a passionate Dev Ops engineer and SRE from the United Kingdom. --
 - <img src="https://media.giphy.com/media/gCWkRsa39liKgD0GLW/giphy.gif" width="50"> **My Routine:** 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-807%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-808%20hrs%2011%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
 
@@ -77,7 +77,7 @@ Hi, I'm AShah, a passionate Dev Ops engineer and SRE from the United Kingdom. --
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 133 Public Repositories 
+> 📜 132 Public Repositories 
  > 
 > 🔑 138 Private Repositories  
  > 
@@ -149,7 +149,7 @@ CSS                      4 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ameeno/ameeno/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/05/2022 12:24:18 UTC
+ Last Updated on 04/05/2022 13:37:03 UTC
 <!--END_SECTION:waka-->
 
 
