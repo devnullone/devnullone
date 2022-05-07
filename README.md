@@ -121,7 +121,7 @@ CSS                      4 repos             █░░░░░░░░░░�
  
 <p align="center"> If you like what I do, maybe consider buying me a coffee </p>
 
-<p align="center"><a href="https://www.buymeacoffee.com/devnullone" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="120" ></a>
+<p align="center"><a href="https://www.buymeacoffee.com/devnull" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="120" ></a>
 
  
  <!-- <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em> -->
