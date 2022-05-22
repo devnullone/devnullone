@@ -51,17 +51,6 @@ Hi, I'm AShah, a passionate Dev Ops engineer and SRE from the United Kingdom. --
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/8baf984947f4d9c32006bd03fa4c51ff91aadf8d/topics/android/android.png"></code>
 
-<!-- 
- 
-<p align="center"> If you like what I do, maybe consider buying me a coffee </p>
-
-<p align="center"><a href="https://www.buymeacoffee.com/devnull" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="120" ></a> -->
-
- 
- <!-- <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em> -->
-
-
-
 <!---
 Hey Visitor , Thanks for downloading my readme.md , 
 If you like my work , please give a shout out 🥺👉👈
