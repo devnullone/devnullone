@@ -31,7 +31,7 @@
 
 Hi, I'm AShah, a passionate Dev Ops engineer and SRE from the United Kingdom. -->
 
-- 🔭 I’m currently working on [Xamarin.forms starter project](https://github.com/devnullone/xamarin)
+- 🔭 I’m currently working on [SmartBin Project](https://github.com/devnullone/SmartBin)
 - 🌱 I’m currently studying for my DUT Exams, Azure and Cisco CCNA certs
 - 👯 I’m looking to collaborate on [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot)
 - 💬 Ask me about anything [here](https://github.com/devnullone/devnullone/issues)
