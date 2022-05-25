@@ -2,7 +2,7 @@
 
 
 <h2> Hi there, I'm Mawuena aka devnullone!  👋 </h2>
-<img align ='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <p><em>Web Mobile and IoT Developer from <a href="https://en.wikipedia.org/wiki/Togo">Lomé, TOGO</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="15"></br>
 </em></p>
