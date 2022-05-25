@@ -1,7 +1,7 @@
 
 
 
-<h2> Hi there, I'm devnullone!  👋 </h2>
+<h2> Hi there, I'm Mawuena aka devnullone!  👋 </h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <p><em>Web Mobile and IoT Developer from <a href="https://en.wikipedia.org/wiki/Togo">Lomé, TOGO</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="15"></br>
@@ -14,22 +14,6 @@
 [![GitHub devnullone](https://img.shields.io/github/followers/devnullone?label=follow&style=social)](https://github.com/devnullone)
 ![](https://visitor-badge.glitch.me/badge?page_id=ameeno.ameeno)
 
-
-<!--
-<a href="https://codesandbox.io/u/ameeno">
-  <img align="left" alt="Arun Shah | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/ameeno/ameeno/master/assets/codesandbox.svg" />
-</a>
-<a href="https://twitter.com/arun1shah">
-  <img align="left" alt="Arun Shah | Twitter" width="21px" src="https://raw.githubusercontent.com/ameeno/ameeno/master/assets/twitter.svg" />
-</a>
-<a href="https://discord.gg/xxxx">
-  <img align="left" alt="Arun's Discord" width="21px" src="https://raw.githubusercontent.com/ameeno/ameeno/master/assets/discord-round.svg" />
-</a>
-
-<br />
-<br /> 
-
-Hi, I'm AShah, a passionate Dev Ops engineer and SRE from the United Kingdom. -->
 
 - 🔭 I’m currently working on [SmartBin Project](https://github.com/devnullone/SmartBin)
 - 🌱 I’m currently studying for my DUT Exams, Azure and Cisco CCNA certs
