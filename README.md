@@ -8,7 +8,7 @@
 </em></p>
 
 
-[![Twitter: GnOtaku](https://img.shields.io/twitter/follow/GnOtaku?style=social)](https://twitter.com/GnOtaku)
+[![Twitter: devnullone](https://img.shields.io/twitter/follow/devnullone?style=social)](https://twitter.com/devnullone)
 [![Linkedin: Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mawuena-m-a-kodzo-5b08a8169/)](https://www.linkedin.com/in/mawuena-m-a-kodzo-5b08a8169/)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://mawuen.github.io/)](https://mawuen.github.io/)
 [![GitHub devnullone](https://img.shields.io/github/followers/devnullone?label=follow&style=social)](https://github.com/devnullone)
