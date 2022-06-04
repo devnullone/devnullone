@@ -19,6 +19,7 @@
 - 🌱 I’m currently studying for my DUT Exams, Azure and Cisco CCNA certs
 - 👯 I’m looking to collaborate on [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot)
 - 💬 Ask me about anything [here](https://github.com/devnullone/devnullone/issues)
+- ✍️ I'm blogging about tech, programming language, tips and trick on [Hashnode](https://devnullone.hashnode.dev/)
 
 **Languages and Tools:**  
 
