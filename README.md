@@ -1,25 +1,34 @@
 
+<h3 align="center"> Mawuena A. KODZO / aka (devnullone) </h3>
 
 
-<h2> Hi there, I'm Mawuena aka devnullone!  👋 </h2>
+<p align="center">
+  <samp>
+    <a href="https://mawuena.me/">Homepage</a> ∙
+    <a href="https://mawuena.me/">Blog</a> ∙
+    <a href="https://mawuena.me/archive">Archive</a> ∙
+    <a href="https://https://mawuena.me/EN_resume.pdf">Cv</a> ∙ 
+    <a href="https://github.com/devnullone">Github</a> ∙ 
+    <a href="https://twitter.com/devnullone">Twitter</a>
+  </samp>
+</p>
+
+
 <!-- <img align="right" width="100" height= "180" src="assets/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966.gif"> -->
 
-<p><em>Web Mobile and IoT Developer from <a href="https://en.wikipedia.org/wiki/Togo">Lomé, TOGO</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="15"></br>
-</em></p>
+
+---
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=devnullone&show_icons=true&hide_border=true&theme=radical" width="50%">
 
 
-[![Twitter: devnullone](https://img.shields.io/twitter/follow/devnullone?style=social)](https://twitter.com/devnullone)
-[![Linkedin: Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mawuena-m-a-kodzo-5b08a8169/)](https://www.linkedin.com/in/mawuena-m-a-kodzo-5b08a8169/)
-[![Portfolio](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://mawuena.me/)](https://mawuena.me/)
-[![GitHub devnullone](https://img.shields.io/github/followers/devnullone?label=follow&style=social)](https://github.com/devnullone)
-![](https://visitor-badge.glitch.me/badge?page_id=ameeno.ameeno)
-
-
+#### Welcome to my github profile!
+<!-- languages:start -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
 - 🔭 I’m currently working on [SmartBin Project](https://github.com/devnullone/SmartBin)
-- 🌱 I’m currently studying for my DUT Exams, Azure and Cisco CCNA certs
-- 👯 I’m looking to collaborate on [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot)
-- 💬 Ask me about anything [here](https://github.com/devnullone/devnullone/issues)
-- ✍️ I'm blogging about tech, programming language, tips and trick on [Hashnode](https://devnullone.hashnode.dev/)
+- 🌱 My current interests are focus on cloud computing, machine learning, and internet of things
+- 📫 You can reach me at [contact@mawuena.me](mailto:contact@mawuena.me).
+- 🎨 I am glad to share and communicate with you.
 
 **Languages and Tools:**  
 
