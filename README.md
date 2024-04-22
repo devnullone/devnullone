@@ -1,7 +1,7 @@
 
-<h3 align="center"> Mawuena A. KODZO / aka (devnullone) </h3>
+<h3 align="center"> /dev/null/ </h3>
 
-
+<!--
 <p align="center">
   <samp>
     <a href="https://mawuena.me/">Homepage</a> ∙
@@ -12,7 +12,7 @@
     <a href="https://twitter.com/devnullone">Twitter</a>
   </samp>
 </p>
-
+ -->
 
 <!-- <img align="right" width="100" height= "180" src="assets/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966.gif"> -->
 
@@ -27,7 +27,6 @@
 <!-- markdownlint-disable -->
 - 🔭 I’m currently working on [SmartBin Project](https://github.com/devnullone/SmartBin)
 - 🌱 My current interests are focus on cloud computing, machine learning, and internet of things
-- 📫 You can reach me at [contact@mawuena.me](mailto:contact@mawuena.me).
 - 🎨 I am glad to share and communicate with you.
 
 **Languages and Tools:**  
@@ -45,10 +44,4 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/8baf984947f4d9c32006bd03fa4c51ff91aadf8d/topics/android/android.png"></code>
 
-<!---
-Hey Visitor , Thanks for downloading my readme.md , 
-If you like my work , please give a shout out 🥺👉👈
-Edit the necessary fields and enjoy!
-Happy Customisation!!!
---->
 
