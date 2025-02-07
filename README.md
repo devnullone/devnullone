@@ -18,7 +18,7 @@
 
 
 ---
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=devnullone&show_icons=true&hide_border=true&theme=radical" width="50%">
+<img align="right" src="[https://github-readme-stats.vercel.app/api?username=devnullone&show_icons=true&hide_border=true&theme=radical](https://github-readme-stats.vercel.app/api?username=devnullone&theme=radical&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)" width="50%">
 
 
 #### Welcome to my github profile!
