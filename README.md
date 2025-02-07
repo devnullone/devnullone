@@ -25,8 +25,8 @@
 <!-- languages:start -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-- 🔭 I’m currently working on [SmartBin Project](https://github.com/devnullone/SmartBin)
-- 🌱 My current interests are focus on cloud computing, machine learning, and internet of things
+- 🔭 I’m currently crafting awsome product ;)
+- 🌱 My current interests are focus on cloud computing, AI, observability, and blockchains
 - 🎨 I am glad to share and communicate with you.
 
 **Languages and Tools:**  
